@@ -1,0 +1,4 @@
+[console_scripts]
+pe = echo.__main__:main
+pecho = echo.__main__:main
+project-echo = echo.__main__:main

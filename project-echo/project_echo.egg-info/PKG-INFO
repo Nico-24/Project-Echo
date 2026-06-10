@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: project-echo
+Version: 1.0.0
+Summary: Project Echo - a terminal UI coding assistant for local LLMs
+Author: Nico
+Requires-Python: >=3.10
+Requires-Dist: textual>=0.80.0
+Requires-Dist: httpx>=0.27.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
